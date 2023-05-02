@@ -60,3 +60,88 @@ list:
   - открой переводчик
   - переводчик
   - запусти переводчик
+  
+- command:
+    action: ahk
+    exe_path: ahk/Run website.exe
+    exe_args:
+    - http://youtubekids.com
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой детям ютуб
+  - детский ютуб
+  - включи мультики
+  - включи детский ютуб
+  
+- command:
+    action: ahk
+    exe_path: ahk/Run website.exe
+    exe_args:
+    - https://www.youtubekids.com/watch?v=oXUlyCp9vbU&hl=ru
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - включи малышариков
+  - включи мультик малышарики
+  - мультик малышарики
+  - включи малышарики
+ 
+- command:
+    action: ahk
+    exe_path: ahk/Run website.exe
+    exe_args:
+    - https://www.youtubekids.com/watch?v=JO4sU9PwNCY&hl=ru
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - включи фиксиков
+  - включи мультик фиксики
+  - мультик фиксики
+  - включи фиксики
+  
+- command:
+    action: ahk
+    exe_path: ahk/Run website.exe
+    exe_args:
+    - https://www.youtubekids.com/watch?v=I9eNKC2yJpE&hl=ru
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - включи суперкрылья
+  - запусти суперкрылья
+  - включи мультик суперкрылья
+  - мультик суперкрылья
+  
+- command:
+    action: ahk
+    exe_path: ahk/Run website.exe
+    exe_args:
+    - https://www.youtubekids.com/watch?v=j8tfadKFVAU&hl=ru
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - включи мимимишки
+  - включи мультик мимимишки
+  - мультик мимимишки
+  - включи мимимишек
